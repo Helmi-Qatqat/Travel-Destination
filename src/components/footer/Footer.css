@@ -1,0 +1,19 @@
+footer {
+  display: flex;
+  flex-flow: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: darkcyan;
+  color: white;
+}
+
+.social-media {
+  display: flex;
+  gap: 10px;
+}
+
+.social-media a {
+  color: white;
+}

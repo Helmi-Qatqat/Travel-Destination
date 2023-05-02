@@ -1,17 +1,15 @@
 import React from "react";
-
+import './Footer.css'
 function Footer() {
   return (
-    <div>
-    <div>
-    <a>Facebook</a>
-    <a>Instagram</a>
-    <a>Facebook</a>
-    </div>
-    <div>
-    Helmi Qatqat
-    </div>
-  </div>
+    <footer>
+      <div className="social-media">
+        <a>Facebook</a>
+        <a>Instagram</a>
+        <a>Twitter</a>
+      </div>
+      <div>Helmi Qatqat © 2023</div>
+  </footer>
   )
 }
 
