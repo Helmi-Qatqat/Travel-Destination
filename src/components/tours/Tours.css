@@ -1,0 +1,6 @@
+.tours-container {
+  display: flex;
+  gap: 20px;
+  flex-flow: wrap;
+  padding: 20px;
+}
